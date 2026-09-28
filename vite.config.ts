@@ -8,7 +8,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icons/*.png', 'share-target-sw.js'],
       manifest: {
-        id: './',
+        id: '/mosaic-ippatsu/',
         name: 'モザイク一発',
         short_name: 'モザイク',
         description: '写真の一部をモザイク・ぼかし。端末内だけで処理。無料・広告なし・ログイン不要。',
