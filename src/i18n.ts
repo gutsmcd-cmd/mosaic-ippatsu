@@ -67,7 +67,7 @@ const ja: Dict = {
 };
 
 const en: Dict = {
-  appTitle: 'Mosaic Now',
+  appTitle: 'Blur Out',
   appSub: 'Hide parts of a photo in seconds',
   open: 'Open a photo',
   openHint: 'Pick from gallery · share to this app · paste · drop',
